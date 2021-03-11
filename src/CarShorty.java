@@ -1,4 +1,2 @@
-public class CarShorty{
-    public CarShorty(TypeOfLocation street, PhotoCamera photoCamera, String name) {
-    }
+public class CarShorty extends ShortyYellowCar{
 }
